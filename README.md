@@ -2,9 +2,9 @@
 
 
 ### Clone the repo:
-
+```
  - git clone git@github.com:knoldus/spring-security-cores.git
-
+```
 
 ### Remediation
 
